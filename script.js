@@ -11,7 +11,7 @@ var months = [
   "Agustus",
   "September",
   "Oktober",
-  "November",
+  "Novembesr",
   "Desember",
 ];
 var hours = date.getHours();
