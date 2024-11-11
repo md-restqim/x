@@ -49,7 +49,7 @@ var watermark = document.createElement("div");
 
 // Setel teks watermark dan propertinya
 // watermark.textContent = day + ", " + dateNum + " " + month + " " + year;
-watermark.textContent = "08 November 2024";
+watermark.textContent = "Jumat, 08 November 2024";
 watermark.style =
   "color:white;opacity:.5;font-size:10px;position:fixed;bottom:25px;left:25px;z-index:150";
 element.appendChild(watermark);
